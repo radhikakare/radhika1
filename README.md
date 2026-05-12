@@ -2,15 +2,21 @@
 
 ## Java Backend Developer
 
-💻 Skills:
+💻 Skills
 - Java
 - Spring Boot
 - REST API
 - MySQL
+- Hibernate
+- Git
 
-🚀 Projects:
+🚀 Projects
 - Hospital Management System
+- REST API Project
 
-📫 Contact:
+📍 Location
+Pune, Maharashtra, India
+
+📫 Contact
 LinkedIn: https://www.linkedin.com/in/radhika-madane/
 Email: madaneradhika1999@gmail.com
